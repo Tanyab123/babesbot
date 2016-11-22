@@ -225,3 +225,4 @@ function getRandomInt(min, max) {
 
 
 exports.respond = respond;
+/cmd add ping don't ping me anymore
